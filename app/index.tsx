@@ -26,7 +26,7 @@ export default function HomeScreen() {
       >
         <View style={styles.header}>
           <View style={styles.titleContainer}>
-            <Text style={styles.title}>Alzheimer Assistive Glasses</Text>
+            <Text style={styles.title}>Alzheimer Smart Assistive Glasses</Text>
             <Text style={styles.subtitle}>
               Your companion for managing Alzheimer's with ease and care
             </Text>
